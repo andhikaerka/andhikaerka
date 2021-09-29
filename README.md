@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Andhika Ragil Kesuma.
+### Hi There 👋, I'm Andhika Ragil Kesuma.
 
 <a href="https://www.linkedin.com/in/andhikaragilk">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
@@ -51,7 +51,7 @@
 </span>
 
 ##
-<h3><b><samp>Github Stats</samp></b></h3>
+<h3><b><samp>GitHub Stats</samp></b></h3>
 
 <div align="center">
  

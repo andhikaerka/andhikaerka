@@ -16,10 +16,10 @@
 
 - 🔭 I’m currently working on IT Consultant placed in Jakarta, Indonesia.
 - 🔭 Bachelor Degree in Computer Science from University of Indonesia (2019).
-- 🌱 I’m currently learning LARAVEL
+- 🌱 I’m currently learning Laravel, Repository & Service Pattern, CodeIgniter, Javascript, Bootstrap and much more 🦖
 - 💬 Ask me about PHP/LARAVEL/CODEIGNITER.
-- 📫 How to reach me: andhika.ragilkesuma@gmail.com
-- ⚡ Fun fact: I'm a man with Focus, Commitment and Sheer Will
+- 📫 How to reach me: andhika.ragilkesuma@gmail.com.
+- ⚡ Fun fact: I'm a man with Focus, Commitment and Sheer Will.
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>

@@ -1,6 +1,5 @@
-### Hi there 👋, I'm Andhika Ragil Kesuma
+### Hi there 👋, I'm Andhika Ragil Kesuma.
 
-<br>
 <a href="https://www.linkedin.com/in/andhikaragilk">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
@@ -16,7 +15,7 @@
 
 - 🔭 I’m currently working on IT Consultant placed in Jakarta, Indonesia.
 - 🔭 Bachelor Degree in Computer Science from University of Indonesia (2019).
-- 🌱 I’m currently learning Laravel, Repository & Service Pattern, CodeIgniter, Javascript, Bootstrap and much more 🦖
+- 🌱 I’m currently learning Laravel, Repository & Service Pattern, CodeIgniter, Javascript, Bootstrap and much more 🦖.
 - 💬 Ask me about PHP/LARAVEL/CODEIGNITER.
 - 📫 How to reach me: andhika.ragilkesuma@gmail.com.
 - ⚡ Fun fact: I'm a man with Focus, Commitment and Sheer Will.
@@ -28,7 +27,7 @@
 ![Laravel](https://img.shields.io/badge/LARAVEL-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E34F26?style=flat-square&logo=CodeIgniter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)

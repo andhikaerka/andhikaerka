@@ -54,9 +54,9 @@
 <h3><b><samp>Github Stats</samp></b></h3>
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=andhikaerka&count_private=true&show_icons=true&theme=dracula&line_height=33">
+ 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaerka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+<img src="https://github-readme-stats.vercel.app/api?username=andhikaerka&count_private=true&show_icons=true&theme=dracula&line_height=33">
 
 </div>
 

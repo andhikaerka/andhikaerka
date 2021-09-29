@@ -9,7 +9,7 @@
 <a href="mailto:andhika.ragilkesuma@gmail.com">
   <img align="left" alt="akd's codechef" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
-<br>
+<br />
 
 ### About Me
 
@@ -51,8 +51,21 @@
 </span>
 
 ##
-<h3><b><samp>Github Status</samp></b></h3>
+<h3><b><samp>Github Stats</samp></b></h3>
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=andhikaerka&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andhikaerka&layout=compact&langs_count=8&hide_border=true)
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=andhikaerka&count_private=true&show_icons=true&theme=dracula&line_height=33">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaerka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
+
+</div>
+
 <br />
+
+<div align="right">
+  
+![ViewCount](https://views.whatilearened.today/views/github/andhikaerka/andhikaerka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/andhikaerka/)
+
+</div>
+
+

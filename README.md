@@ -41,14 +41,6 @@
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-  
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-</span>
 
 ##
 <h3><b><samp>GitHub Stats</samp></b></h3>

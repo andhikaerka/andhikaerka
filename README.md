@@ -15,8 +15,8 @@
 
 - 🔭 I’m currently working on IT Consultant placed in Jakarta, Indonesia.
 - 🔭 Bachelor Degree in Computer Science from University of Indonesia (2019).
-- 🌱 I have a large experience in Web Development, DevOps, Infrastructure, Databases, Fullstack, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
-- 🌱 I’m currently learning Laravel, Repository & Service Pattern, CodeIgniter, Javascript, Bootstrap and much more 🦖.
+- 👔 I have a large experience in Web Development, DevOps, Infrastructure, Databases, Fullstack, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
+- 🎷 I’m currently learning Laravel, Repository & Service Pattern, CodeIgniter, Javascript, Bootstrap and much more 🦖.
 - 💬 Ask me about PHP/Laravel/CodeIgniter.
 - 📫 How to reach me: andhika.ragilkesuma@gmail.com.
 - ⚡ Fun fact: I'm a man with Focus, Commitment and Sheer Will.
@@ -30,7 +30,7 @@
 
 - I’m currently working on React, Vue, Node, PHP, CodeIgniter, and Laravel.
 
-- I’m currently learning IaC (Kafka, Heroku and Kubernetes) | Javascript (Next.js, TypeScript)
+- I’m currently learning DevOps, Infrastructure as Code (Kafka, Heroku and Kubernetes) | Javascript (Next.js, TypeScript) | Frontend CSS (tailwind 3, Bootstrap, Chakra UI) | Design Pattern (SOLID, TDD, Services, Repository)
 
 - Pronouns: He / Him / His
 

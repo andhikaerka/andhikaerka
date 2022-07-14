@@ -30,7 +30,7 @@
 
 - I’m currently working on React, Vue, Node, PHP, CodeIgniter, and Laravel.
 
-- I’m currently learning DevOps, Infrastructure as Code (Kafka, Heroku and Kubernetes) | Javascript (Next.js, TypeScript) | Frontend CSS (tailwind 3, Bootstrap, Chakra UI) | Design Pattern (SOLID, TDD, Services, Repository)
+- I’m currently learning DevOps, Infrastructure as Code (Kafka, Heroku and Kubernetes) | Javascript (Next.js, TypeScript) | Frontend CSS (Tailwind 3, Bootstrap 5, Chakra UI) | Design Pattern (SOLID, TDD, Services, Repository)
 
 - Pronouns: He / Him / His
 

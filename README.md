@@ -13,7 +13,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working on IT Consultant placed in Jakarta, Indonesia.
+- 🔭 I’m currently working on telecom company placed in Jakarta, Indonesia.
 - 🔭 Bachelor Degree in Computer Science from University of Indonesia (2019).
 - 👔 I have a large experience in Web Development, DevOps, Infrastructure, Databases, Fullstack, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
 - 🎷 I’m currently learning Laravel, Repository & Service Pattern, CodeIgniter, Javascript, Bootstrap and much more 🦖.
@@ -30,9 +30,9 @@
 
 - I’m currently working on React, Vue, Node, PHP, CodeIgniter, and Laravel.
 
-- I’m currently learning DevOps, Infrastructure as Code (Kafka, Heroku and Kubernetes) | Javascript (Next.js, TypeScript) | Frontend CSS (Tailwind 3, Bootstrap 5, Chakra UI) | Design Pattern (SOLID, TDD, Services, Repository)
+- I’m currently learning CI/CD, DevOps, Docker, Kubernetes | Javascript, React, Vue | Tailwind, Bootstrap, Chakra UI | Design Pattern (SOLID, TDD, Services Pattern, Repository Pattern)
 
-- Pronouns: He / Him / His
+- Pronouns: He/Him/His
 
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>

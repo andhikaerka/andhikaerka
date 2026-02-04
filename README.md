@@ -15,9 +15,9 @@
 
 - 🔭 I’m currently working on telecom company placed in Jakarta, Indonesia.
 - 🔭 Bachelor Degree in Computer Science from University of Indonesia (2019).
-- 👔 I have a large experience in Web Development, DevOps, Infrastructure, Databases, Fullstack, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
-- 🎷 I’m currently learning Laravel, Repository & Service Pattern, CodeIgniter, Javascript, Bootstrap and much more 🦖.
-- 💬 Ask me about PHP/Laravel/CodeIgniter.
+- 👔 I've a large experience in Web Development, DevOps, Infrastructure, Databases, Fullstack, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
+- 🎷 I've a strong focus on the PHP Framework(Laravel, CodeIgniter, Zend), Front-End Framework(React & Vue), CSS Framework(Tailwind, Bootstrap) and much more 🦖.
+- 💬 Ask me about PHP/Laravel/CodeIgniter/Javascript.
 - 📫 How to reach me: andhika.ragilkesuma@gmail.com.
 - ⚡ Fun fact: I'm a man with Focus, Commitment and Sheer Will.
 
@@ -28,7 +28,7 @@
 
 ### Today
 
-- I’m currently working on React, Vue, Node, PHP, CodeIgniter, and Laravel.
+- I’m currently working on React, Vue, Node, PHP, CodeIgniter, and mostly Laravel.
 
 - I’m currently learning CI/CD, DevOps, Docker, Kubernetes | Javascript, React, Vue | Tailwind, Bootstrap, Chakra UI | Design Pattern (SOLID, TDD, Services Pattern, Repository Pattern)
 
@@ -62,23 +62,3 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-
-##
-<h3><b><samp>GitHub Stats</samp></b></h3>
-
-<div align="center">
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andhikaerka&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
-<img src="https://github-readme-stats.vercel.app/api?username=andhikaerka&count_private=true&show_icons=true&theme=dracula&line_height=33">
-
-</div>
-
-<br />
-
-<div align="right">
-  
-![ViewCount](https://views.whatilearened.today/views/github/andhikaerka/andhikaerka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/andhikaerka/)
-
-</div>
-
-

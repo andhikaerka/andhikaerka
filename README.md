@@ -1,64 +1,61 @@
-### Hi There 👋, I'm Andhika Ragil Kesuma.
+Hi there, I'm Andhika Ragil Kesuma 👋
+=====================================
 
-<a href="https://www.linkedin.com/in/andhikaragilk">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/andhikaerka">
-  <img align="left" alt="akd's Github" width="90px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="mailto:andhika.ragilkesuma@gmail.com">
-  <img align="left" alt="akd's codechef" width="80px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
-<br />
+### Senior Full-Stack Engineer | PHP & Laravel Expert
 
-### About Me
+I am a results-driven Software Engineer with **over 10 years of experience** in building scalable, high-performance web applications. My expertise lies in architecting robust backend systems and real-time features for enterprise-level industries.
 
-- 🔭 I’m currently working on telecom company placed in Jakarta, Indonesia.
-- 🔭 Bachelor Degree in Computer Science from University of Indonesia (2019).
-- 👔 I've a large experience in Web Development, DevOps, Infrastructure, Databases, Fullstack, and agile project management with observability and CI/CD. I’m a native Leader, proactive and communicative.
-- 🎷 I've a strong focus on the PHP Framework(Laravel, CodeIgniter, Zend), Front-End Framework(React & Vue), CSS Framework(Tailwind, Bootstrap) and much more 🦖.
-- 💬 Ask me about PHP/Laravel/CodeIgniter/Javascript.
-- 📫 How to reach me: andhika.ragilkesuma@gmail.com.
-- ⚡ Fun fact: I'm a man with Focus, Commitment and Sheer Will.
+### 🚀 Professional Highlights
 
-### Languages
+*   🔭 **Currently:** Software Engineer at PT. Aether Digital Indonesia, enhancing high-traffic billing systems for the Telco industry.
+    
+*   🎓 **Education:** Bachelor of Computer Science from **University of Indonesia**.
+    
+*   🛠 **Expertise:** Deeply specialized in **Laravel** ecosystems, with a strong foundation in **React**.
+    
+*   🏗 **Architecture:** Proficient in **TDD, SOLID principles, and Clean Architecture** (Service & Repository Patterns).
+    
+*   🌍 **Languages:** Native Indonesian and **Advanced English (C1 Level)**.
+    
 
-- English - Advanced / Fluent
-- Indonesia - Native
+### 💡 Why Work With Me?
 
-### Today
+*   **Proven Seniority:** 10+ years of hands-on experience navigating the full software development lifecycle, from legacy systems to modern cloud architectures.
+    
+*   **Scalability Mindset:** Expert in managing high-traffic systems and large-scale databases (PostgreSQL/MySQL), focusing on query optimization and high-availability.
+    
+*   **Hybrid Skillset:** A unique blend of Senior Engineering and **Agile Project Management** capabilities, ensuring technical excellence aligns with business goals.
+    
+*   **Mission-Critical Experience:** Trusted by Indonesia's largest State-Owned Enterprises (Pertamina, PLN) to build and maintain secure, high-availability platforms.
+    
 
-- I’m currently working on React, Vue, Node, PHP, CodeIgniter, and mostly Laravel.
+### 🛠 Tech Stack & Tools
 
-- I’m currently learning CI/CD, DevOps, Docker, Kubernetes | Javascript, React, Vue | Tailwind, Bootstrap, Chakra UI | Design Pattern (SOLID, TDD, Services Pattern, Repository Pattern)
+**Languages & Frameworks**
 
-- Pronouns: He/Him/His
+*   **Backend:** PHP (Laravel, CodeIgniter), Livewire.
+    
+*   **Frontend:** React, Vue.js, JavaScript, Tailwind CSS, Bootstrap, jQuery.
+    
+*   **Database:** PostgreSQL, MySQL, MongoDB, Redis.
+    
 
-##
-<h3><b><samp>Skills and Languages</samp></b></h3>
+**DevOps & Infrastructure**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-E34F26?style=flat-square&logo=CodeIgniter&logoColor=white)
-<br>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white)
-<br>
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-<br>
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+*   Docker, AWS (S3), Jenkins, GitHub/GitLab CI/CD.
+    
+*   Observability and Agile Project Management using Jira & Slack.
+    
 
-##
-<h3><b><samp>Tools and Platform</samp></b></h3>
+### 📊 Impact & Projects
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=DD1100)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+Most of my professional work resides in private repositories for large-scale enterprises, including:
+
+*   **Telco Industry:** Scalable billing and monitoring systems for ISP providers.
+    
+*   **Energy Sector:** ERP and Asset Management for PERTAMINA & PLN ICON+.
+    
+*   **Government:** Tax reporting and licensing systems for Indonesian National Ministries.
+    
+
+📫 **How to reach me:** [andhika.ragilkesuma@gmail.com](mailto:andhika.ragilkesuma@gmail.com) | [LinkedIn](https://www.linkedin.com/in/andhikaragilk)
